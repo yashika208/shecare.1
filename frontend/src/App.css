@@ -1,0 +1,62 @@
+.app-container {
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  padding: 2rem;
+  background: #fff0f5;
+  color: #4a005f;
+}
+
+.header {
+  padding: 3rem 1rem;
+  background-color: #ffe4ec;
+  border-radius: 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  margin-bottom: 2rem;
+}
+
+.tagline {
+  font-size: 1.5rem;
+  margin: 1rem 0;
+  color: #9a4d9e;
+}
+
+.cta-button {
+  padding: 0.8rem 1.5rem;
+  font-size: 1rem;
+  background: #ff69b4;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.cta-button:hover {
+  background: #ff1493;
+}
+
+.features {
+  background: #fce4ec;
+  padding: 2rem;
+  border-radius: 15px;
+}
+
+.features h2 {
+  color: #d81b60;
+}
+
+.features ul {
+  list-style: none;
+  padding: 0;
+}
+
+.features li {
+  margin: 0.8rem 0;
+  font-size: 1.2rem;
+}
+.tracker-section {
+  margin-top: 3rem;
+  padding: 1rem;
+  background-color: #fff0f5;
+  border-radius: 1rem;
+}
