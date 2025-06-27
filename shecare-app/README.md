@@ -18,20 +18,20 @@
 
 ## Screenshots
 
+### Home Page
+![Home Page](./Screenshots/Home%20Page.png)
+
+### Period Tracker
+![Tracker](./Screenshots/Tracker.png)
+
+### Mood Suggestions
+![Suggestions](./Screenshots/Suggestion.png)
+
 ### AI Suggestions
 ![AI Suggestions](./Screenshots/AI%20Suggestions.png)
 
 ### Ask SheCare Page
 ![Ask Page](./Screenshots/Askpage.png)
-
-### Home Page
-![Home Page](./Screenshots/Home%20Page.png)
-
-### Mood Suggestions
-![Suggestions](./Screenshots/Suggestion.png)
-
-### Period Tracker
-![Tracker](./Screenshots/Tracker.png)
 
 ## Tech Stack
 Frontend- React, CSS, HTML  
